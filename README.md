@@ -2,7 +2,7 @@
 
 # Daily Update
 
-This repository is automatically updated once a day with the latest changes.
+This repository is automatically updated several times a day with the latest changes.
 
 ## Update Schedule
 
